@@ -1,1 +1,2 @@
 Initial Bar Commit
+Version Bar 2.0 has come out
